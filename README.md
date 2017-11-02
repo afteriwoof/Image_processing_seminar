@@ -2,7 +2,7 @@
 
 ### Jason Byrne PhD
 
-#### Royal Mail Data Science Team Seminar
+#### Data Science Team Seminar - Royal Mail Group Business Intelligence 
 
 #### Sept 2017
 
@@ -19,6 +19,8 @@ http://www.scipy-lectures.org/
 Notebook content available at this dropbox link:
 tiny.cc/fbvfny
 
+Viewable on Jupyter nbviewer here:
+http://nbviewer.jupyter.org/github/afteriwoof/Image_processing_seminar/blob/master/Image_processing_seminar.ipynb
 
 ```
 from skimage import data, io, filters, util
@@ -33,6 +35,11 @@ import numpy as np
 import skimage
 print(skimage.__version__)
 ```
+0.13.0
+
+A digital image is a numeric representation (a matrix) of an image f(x,y) that has been discretized both in spatial coordinates and brightness.
+# Option to load an example image: img = data.horse() img = data.moon() img = data.astronaut() img = data.coins() io.imshow(img) io.show() # Or load your own image instead (though it might not be ideal for the demo).
+
 
 ## Welcome to GitHub Pages
 
