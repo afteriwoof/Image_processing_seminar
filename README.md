@@ -1,15 +1,17 @@
 # Digital Image Processing: Intro & Applications
 
 Demo by Jason Byrne
+
 Royal Mail Data Science Team Seminar
+
 Sept. 2017
 
 Sources include: 
 
-    "Digital Image Processing" - Gonzalez & Woods
-    http://scikit-image.org/
-    https://matplotlib.org/
-    http://www.scipy-lectures.org/
+"Digital Image Processing" - Gonzalez & Woods
+http://scikit-image.org/
+https://matplotlib.org/
+http://www.scipy-lectures.org/
     
 
 ## Welcome to GitHub Pages
