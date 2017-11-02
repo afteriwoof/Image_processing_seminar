@@ -20,7 +20,7 @@ Notebook content available at this dropbox link:
 tiny.cc/fbvfny
 
 
-'''
+```
 from skimage import data, io, filters, util
 
 import matplotlib
@@ -32,7 +32,7 @@ import numpy as np
 
 import skimage
 print(skimage.__version__)
-'''
+```
 
 ## Welcome to GitHub Pages
 
